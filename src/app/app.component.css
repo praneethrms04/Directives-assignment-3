@@ -1,0 +1,8 @@
+.isactive {
+    border: 4px solid green;
+}
+
+.active {
+    background-color: blue;
+    color: antiquewhite;
+}
